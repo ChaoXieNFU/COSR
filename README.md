@@ -5,6 +5,10 @@ The code is built on [EDSR (Pytorch)](https://github.com/sanghyun-son/EDSR-PyTor
 ## Abstract
 Recently, deep learning techniques have been deeply studied and widely applied to single image super-resolution (SR). Increasingly, deeper and wider convolution neural networks (CNNs) are customized for SR, and many favorable and beneficial mechanisms are introduced to make further progress. Among them, channel attention has drawn the majority of attention due to its great boost in the presentational power of CNNs. However, the original channel attention neglects the critical importance of positional information, thus imposing performance limitations. In this paper, we explore a novel perspective, namely the coor-dinate attention mechanism, to alleviate the aforementioned problem, and accordingly result in an enhanced SR performance. Specifically, we propose a deep residual coordinate attention SR network (COSR), which mainly incorporated the presented co-ordinate attention blocks into a deep nested residual structure. The coordinate attention captures the positional information by computing the average value vector from the two spatial directions respectively, thus aggregating the features in different coor-dinates. The nested residual blocks pass low-frequency information from top to end through the skip-connection lines, allowing convolution filters to concentrate more on high-frequency textures and edges and therefore reducing the difficulty of recon-struction. Extensive experiments demonstrate that our proposed COSR achieves better performance and exceeds many state-of-the-art SR methods in terms of both quantitative metrics and visual quality.
 
+## pretrained model
+You can download our pretrained model here:
+https://pan.baidu.com/s/1fYPk23LIbynT97HfgW6y2Q  (password:ikvq )
+
 ## Train
 
 x2: 
