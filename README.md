@@ -1,5 +1,5 @@
 # COSR
-Paper was publshed on 16 Nov. 2021. [COSR](https://doi.org/10.1049/ipr2.12364)
+Paper [COSR](https://doi.org/10.1049/ipr2.12364) was publshed on 16 Nov. 2021. 
 The code is built on [EDSR (Pytorch)](https://github.com/sanghyun-son/EDSR-PyTorch). We thank the authors for sharing the codes.
 
 ## Abstract
